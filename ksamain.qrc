@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Wallpaper.png</file>
+        <file>BBack.png</file>
+        <file>FirmLogo.png</file>
+        <file>BTU.png</file>
+        <file>BTech.png</file>
+        <file>BLearn.png</file>
+        <file>Indication.png</file>
+        <file>BTools.png</file>
+        <file>Save.png</file>
+        <file>Grenade.png</file>
+        <file>Door.png</file>
+        <file>Door1.png</file>
+        <file>Sign.png</file>
+        <file>Rotate.png</file>
+        <file>Delete.png</file>
+        <file>B524-2_s.png</file>
+        <file>9960_s.png</file>
+        <file>2AP.png</file>
+        <file>APTK.png</file>
+    </qresource>
+</RCC>
