@@ -20,6 +20,7 @@ editor::editor(QWidget *parent) :
     ui->pushButton_10->setIcon(QIcon(":images/9960_s.png"));
     ui->pushButton_11->setIcon(QIcon(":images/2AP.png"));
     ui->pushButton_12->setIcon(QIcon(":images/APTK.png"));
+    /* Vitya */
 }
 
 editor::~editor()
